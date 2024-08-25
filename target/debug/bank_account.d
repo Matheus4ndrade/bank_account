@@ -1,1 +1,1 @@
-C:\Users\Matheus\Desktop\RepoPessoal\RepoRust\bank_account\target\debug\bank_account.exe: C:\Users\Matheus\Desktop\RepoPessoal\RepoRust\bank_account\src\main.rs
+C:\Users\Matheus\Desktop\Repositorios\bank_account\target\debug\bank_account.exe: C:\Users\Matheus\Desktop\Repositorios\bank_account\src\autenticacao.rs C:\Users\Matheus\Desktop\Repositorios\bank_account\src\conta.rs C:\Users\Matheus\Desktop\Repositorios\bank_account\src\main.rs C:\Users\Matheus\Desktop\Repositorios\bank_account\src\utils.rs

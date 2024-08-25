@@ -1,0 +1,10 @@
+C:\Users\Matheus\Desktop\Repositorios\bank_account\target\debug\deps\libowned_ttf_parser-14f2eab4d2a31598.rmeta: C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.24.0\src\lib.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.24.0\src\convert.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.24.0\src\owned.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.24.0\src\preparse.rs
+
+C:\Users\Matheus\Desktop\Repositorios\bank_account\target\debug\deps\libowned_ttf_parser-14f2eab4d2a31598.rlib: C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.24.0\src\lib.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.24.0\src\convert.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.24.0\src\owned.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.24.0\src\preparse.rs
+
+C:\Users\Matheus\Desktop\Repositorios\bank_account\target\debug\deps\owned_ttf_parser-14f2eab4d2a31598.d: C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.24.0\src\lib.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.24.0\src\convert.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.24.0\src\owned.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.24.0\src\preparse.rs
+
+C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.24.0\src\lib.rs:
+C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.24.0\src\convert.rs:
+C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.24.0\src\owned.rs:
+C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.24.0\src\preparse.rs:

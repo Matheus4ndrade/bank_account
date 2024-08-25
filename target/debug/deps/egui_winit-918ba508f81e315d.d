@@ -1,0 +1,10 @@
+C:\Users\Matheus\Desktop\Repositorios\bank_account\target\debug\deps\libegui_winit-918ba508f81e315d.rmeta: C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\egui-winit-0.20.1\src\lib.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\egui-winit-0.20.1\src\clipboard.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\egui-winit-0.20.1\src\screen_reader.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\egui-winit-0.20.1\src\window_settings.rs
+
+C:\Users\Matheus\Desktop\Repositorios\bank_account\target\debug\deps\libegui_winit-918ba508f81e315d.rlib: C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\egui-winit-0.20.1\src\lib.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\egui-winit-0.20.1\src\clipboard.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\egui-winit-0.20.1\src\screen_reader.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\egui-winit-0.20.1\src\window_settings.rs
+
+C:\Users\Matheus\Desktop\Repositorios\bank_account\target\debug\deps\egui_winit-918ba508f81e315d.d: C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\egui-winit-0.20.1\src\lib.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\egui-winit-0.20.1\src\clipboard.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\egui-winit-0.20.1\src\screen_reader.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\egui-winit-0.20.1\src\window_settings.rs
+
+C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\egui-winit-0.20.1\src\lib.rs:
+C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\egui-winit-0.20.1\src\clipboard.rs:
+C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\egui-winit-0.20.1\src\screen_reader.rs:
+C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\egui-winit-0.20.1\src\window_settings.rs:

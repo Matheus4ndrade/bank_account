@@ -1,0 +1,11 @@
+C:\Users\Matheus\Desktop\Repositorios\bank_account\target\debug\deps\libeframe-145b70d5b7218221.rmeta: C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.20.1\src\lib.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.20.1\src\epi.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.20.1\src\native\mod.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.20.1\src\native\epi_integration.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.20.1\src\native\run.rs
+
+C:\Users\Matheus\Desktop\Repositorios\bank_account\target\debug\deps\libeframe-145b70d5b7218221.rlib: C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.20.1\src\lib.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.20.1\src\epi.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.20.1\src\native\mod.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.20.1\src\native\epi_integration.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.20.1\src\native\run.rs
+
+C:\Users\Matheus\Desktop\Repositorios\bank_account\target\debug\deps\eframe-145b70d5b7218221.d: C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.20.1\src\lib.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.20.1\src\epi.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.20.1\src\native\mod.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.20.1\src\native\epi_integration.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.20.1\src\native\run.rs
+
+C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.20.1\src\lib.rs:
+C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.20.1\src\epi.rs:
+C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.20.1\src\native\mod.rs:
+C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.20.1\src\native\epi_integration.rs:
+C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.20.1\src\native\run.rs:

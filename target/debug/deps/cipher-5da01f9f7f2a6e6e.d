@@ -1,0 +1,11 @@
+C:\Users\Matheus\Desktop\Repositorios\bank_account\target\debug\deps\libcipher-5da01f9f7f2a6e6e.rmeta: C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.3.0\src\lib.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.3.0\src\block.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.3.0\src\common.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.3.0\src\errors.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.3.0\src\stream.rs
+
+C:\Users\Matheus\Desktop\Repositorios\bank_account\target\debug\deps\libcipher-5da01f9f7f2a6e6e.rlib: C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.3.0\src\lib.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.3.0\src\block.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.3.0\src\common.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.3.0\src\errors.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.3.0\src\stream.rs
+
+C:\Users\Matheus\Desktop\Repositorios\bank_account\target\debug\deps\cipher-5da01f9f7f2a6e6e.d: C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.3.0\src\lib.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.3.0\src\block.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.3.0\src\common.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.3.0\src\errors.rs C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.3.0\src\stream.rs
+
+C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.3.0\src\lib.rs:
+C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.3.0\src\block.rs:
+C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.3.0\src\common.rs:
+C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.3.0\src\errors.rs:
+C:\Users\Matheus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cipher-0.3.0\src\stream.rs:
